@@ -5,6 +5,4 @@ Developed a scalable pattern mining algorithm for large scale interval based dat
 
 ![](https://github.com/prakhardhama/PIMiner/blob/master/Results/asl.jpg)
 
-![](https://github.com/prakhardhama/PIMiner/blob/master/Results/s10k.jpg)
-
 ![](https://github.com/prakhardhama/PIMiner/blob/master/Results/scale1.jpg)
