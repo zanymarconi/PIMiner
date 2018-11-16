@@ -1,0 +1,29 @@
+Checkpoint: Starting Endpoint Representation:  4.3881 s
+Checkpoint: Endpoint Representation complete:  24.3207 s
+Checkpoint: Removed Infrequent Endpoints:  49.6211 s
+Checkpoint: Frequent 1 patterns found:  52.0404 s
+Total starting points: 1
+Completion 0% 100% 
+-----------------------------------------------------
+Dataset: S100000C40E1000.DB
+# Sequence: 100000
+# Interval: 3997520
+# Event: 785
+avg. Sequence Length: 39
+avg. Duration: 7
+Support: 0.6(60000)
+Max Len: 3
+Frequent Temporal Patterns: 1
+ < (391_1+) < (391_1-)
+-----------------------------------------------------
+Frequent 1 len patterns: 1
+Frequent 2 len patterns: 0
+Frequent 3 len patterns: 0
+-----------------------------------------------------
+-----------------------------------------------------
+Execution Complete
+Total time taken:  724.4213 s
+Total memory usage: 2211.4375 MB
+Resident memory usage: 2181.1289 MB
+Stack size usage: 0.1328 MB
+-----------------------------------------------------
