@@ -8,3 +8,5 @@ Developed a scalable pattern mining algorithm for large scale interval based dat
 ![](https://github.com/prakhardhama/PIMiner/blob/master/Results/scale1.jpg)
 
 TPMiner: https://ieeexplore.ieee.org/document/7153551
+
+[PIMiner Paper](https://github.com/prakhardhama/PIMiner/blob/master/PIMiner.pdf)
